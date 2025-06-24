@@ -1,5 +1,7 @@
 # Digital Data Processing Tool
 
+assets/icon.png
+
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
 
 This is my first experience working on a larger project of this scale and using the Tkinter library, so I’m open to any feedback, suggestions, or support you’d be willing to share. Thanks for checking it out!
