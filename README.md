@@ -11,3 +11,6 @@ This is my first experience working on a larger project of this scale and using 
 ## Usage
 
 It’s very simple — just download the .exe file and run it. A window will open, and you’ll be ready to use the tool. Please note that some Windows antivirus programs may flag the .exe as a potentially harmful file, but this is a common false alarm for programs that aren’t digitally signed.
+
+## Release Files
+
