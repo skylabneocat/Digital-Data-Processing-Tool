@@ -1,4 +1,5 @@
-# Digital Data Processing Tool ![](assets/icon.png)
+# Digital Data Processing Tool 
+<img src="assets/icon.png" width="400">
 
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
 
