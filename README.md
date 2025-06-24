@@ -2,7 +2,7 @@
 
 # Digital Data Processing Tool
 
-[⬇️ Download the .exe file](dist/your-program.exe)
+[⬇️ Download the .exe file](dist/Digital Data Processing Tool.exe)
 
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
 
