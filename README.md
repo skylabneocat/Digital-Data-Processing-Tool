@@ -2,7 +2,6 @@
 
 # Digital Data Processing Tool
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](#) [![Download](https://img.shields.io/badge/Download-Digital%20Data%20Processing%20Tool-brightgreen?style=for-the-badge)](dist/Digital%20Data%20Processing%20Tool.exe)
 [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
 [![License: MIT](https://img.shields.io/badge/-MIT-blue.svg?style=for-the-badge)](LICENSE "License")
 
