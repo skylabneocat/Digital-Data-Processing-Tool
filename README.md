@@ -1,4 +1,4 @@
-<img src="assets/icon.png" alt="App Icon" width="400" style="display: block; margin: 0 auto;">
+<p align="center"><img src="assets/icon.png" width="80%"></p>
 
 # Digital Data Processing Tool 
 
