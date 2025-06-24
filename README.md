@@ -3,6 +3,7 @@
 # Digital Data Processing Tool
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](#) [![Download](https://img.shields.io/badge/Download-Digital%20Data%20Processing%20Tool-brightgreen?style=for-the-badge)](dist/Digital%20Data%20Processing%20Tool.exe)
+[![License: MIT](https://img.shields.io/badge/-Unlicense-blue.svg?style=for-the-badge)](LICENSE "License")
 
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
 
@@ -16,3 +17,4 @@ It’s very simple — just download the .exe file and run it. A window will ope
 
 File|Description
 :---|:---
+[Digital-Data-Processing-Tool](https://github.com/skylabneocat/Digital-Data-Processing-Tool/releases/download/v1.0.0/Digital.Data.Processing.Tool.exe)|Windows standalone x64 binary
