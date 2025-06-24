@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.png" width="80%"></p>
+<p align="center"><img src="assets/icon.png" width="200"></p>
 
 # Digital Data Processing Tool 
 
