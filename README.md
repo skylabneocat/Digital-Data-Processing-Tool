@@ -2,7 +2,7 @@
 
 # Digital Data Processing Tool
 
-[⬇️ Download the .exe file](dist/Digital Data Processing Tool.exe)
+[![Download](https://img.shields.io/badge/Download-Digital%20Data%20Processing%20Tool-brightgreen?style=for-the-badge)](dist/dist/Digital%20Data%20Processing%20Tool.exe)
 
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
 
