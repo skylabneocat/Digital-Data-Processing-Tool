@@ -14,3 +14,4 @@ It’s very simple — just download the .exe file and run it. A window will ope
 
 ## Release Files
 
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/skylabneocat/Digital-Data-Processing-Tool/releases/download/v1.0.0/Digital.Data.Processing.Tool.exe)
