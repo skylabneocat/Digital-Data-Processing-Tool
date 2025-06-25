@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.png" width="200"></p>
+![image](https://github.com/user-attachments/assets/2ac1691e-102e-405e-966e-049bb3b1694b)<p align="center"><img src="assets/icon.png" width="200"></p>
 
 # Digital Data Processing Tool
 
@@ -12,6 +12,8 @@ This is my first experience working on a larger project of this scale and using 
 ## Usage
 
 It’s very simple — just download the .exe file and run it. A window will open, and you’ll be ready to use the tool. Please note that some Windows antivirus programs may flag the .exe as a potentially harmful file, but this is a common false alarm for programs that aren’t digitally signed.
+
+<p><img src="assets/123404.png" width="250"></p>
 
 ## Releases
 
