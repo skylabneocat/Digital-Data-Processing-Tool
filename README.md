@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ac1691e-102e-405e-966e-049bb3b1694b)<p align="center"><img src="assets/icon.png" width="200"></p>
+<p align="center"><img src="assets/icon.png" width="200"></p>
 
 # Digital Data Processing Tool
 
