@@ -14,6 +14,9 @@ This is my first experience working on a larger project of this scale and using 
 It’s very simple — just download the .exe file and run it. A window will open, and you’ll be ready to use the tool. Please note that some Windows antivirus programs may flag the .exe as a potentially harmful file, but this is a common false alarm for programs that aren’t digitally signed.
 
 <p align="center"><img src="assets/123404.png" width="250"></p>
+<p align="center"><img src="assets/124031.png" width="250"></p>
+<p align="center"><img src="assets/124059.png" width="250"></p>
+<p align="center"><img src="assets/151350.png" width="250"></p>
 
 ## Releases
 
