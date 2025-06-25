@@ -2,8 +2,7 @@
 
 # Digital Data Processing Tool
 
-[![Release version](https://img.shields.io/github/skylabneocat/Digital-Data-Processing-Tool/releases/download?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
-https://github/skylabneocat/Digital-Data-Processing-Tool/releases/download
+[![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
 [![License: MIT](https://img.shields.io/badge/-MIT-blue.svg?style=for-the-badge)](LICENSE "License")
 
 As the name suggests, this tool brings together a range of features, including a number system converter, numeric representations, recursive calculations, and a student records manager — focusing mainly on fundamental concepts taught in the first year of a Computer Science degree.
